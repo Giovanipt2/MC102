@@ -1,7 +1,7 @@
-MC102 - Introduction to Computer Science
+#**MC102 - Introduction to Computer Science**
 This repository contains all the programming assignments and exercises developed during the MC102 - Introduction to Computer Science course at Unicamp. The course focuses on programming logic, problem-solving strategies, and algorithmic thinking using Python.
 
-Topics Covered:
+##Topics Covered:
 Programming Fundamentals: Variables, control structures, and functions
 
 Problem Solving: Algorithm design and implementation
